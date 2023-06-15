@@ -1,0 +1,8 @@
+{
+	"admin1" : {
+		"password" :"123456"
+	},
+	"user1" : {
+		"password" : "qwerty"
+	}
+}
